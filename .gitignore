@@ -1,5 +1,7 @@
 # ignore folder
-*/node_modules
+/node_modules
+/.pnp
+.pnp.js
 
 # ignore files
 *.txt
@@ -7,3 +9,4 @@
 *.xls
 *.xlsm
 *.env
+.DS_Store
