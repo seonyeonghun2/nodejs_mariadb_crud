@@ -1,0 +1,9 @@
+# ignore folder
+*/node_modules
+
+# ignore files
+*.txt
+*.hwp
+*.xls
+*.xlsm
+*.env
